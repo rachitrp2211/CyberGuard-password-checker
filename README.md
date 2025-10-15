@@ -42,3 +42,25 @@
 
 ```bash
 pip install requests pyperclip
+
+Run the tool:
+python password_checker_with_report_plus.py
+
+Usage
+
+1. Enter or generate a password
+2. Toggle Show Password if needed
+3. Click Check & Save to analyze password and save report
+4. View results: entropy, strength, breach status, suggestions
+5. Reports are saved automatically under reports/
+
+MIT License
+This project is licensed under the MIT License — see the LICENSE
+ file for details.
+
+Future Enhancements
+
+Multi-user support with encrypted storage
+Advanced password metrics (dictionary/Markov chain analysis)
+Export reports to PDF with charts/graphs
+Multi-language GUI support
