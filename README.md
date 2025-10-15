@@ -67,7 +67,9 @@ python password-checker.py
 5. Reports are saved automatically under reports/
 
 **Example Report Entry:**
-Timestamp: 2025-10-15T16:40:12
+Timestamp:
+```bash
+2025-10-15T16:40:12
 Input method: Generated
 Checks performed: Entropy check, HIBP breach check
 Masked preview: Ab********YZ
@@ -75,6 +77,7 @@ SHA1: 4A7D1ED414474E4033AC29CCB8653D9B
 Entropy: 70.12
 Strength level: Strong
 Breach result: No breaches found
+```
 
 ## MIT License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
