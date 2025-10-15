@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CyberGuard — Password Analyzer & Reporter
 
 🔐 CyberGuard is a modern, GUI-based password analysis tool designed for security enthusiasts and professionals. It checks password strength, estimates entropy, detects potential breaches via the Have I Been Pwned API, and generates detailed reports for auditing purposes. Perfect for portfolio projects or internships in cybersecurity.
@@ -99,3 +100,7 @@ More advanced password metrics (e.g., Markov chain or dictionary attacks).
 Export reports to PDF with charts/graphs.
 
 Multi-language GUI support.
+=======
+# CyberGuard-password-checker
+CyberGuard is a Python GUI tool that analyzes password strength, estimates entropy, checks for breaches via Have I Been Pwned API, generates strong passwords, and creates detailed reports. Ideal for cybersecurity portfolios, internships, and demonstrating practical security skills.
+>>>>>>> cb6c1b56d31e804c1e17acd4a81a72c844d7e09a
