@@ -57,7 +57,7 @@ pip install requests pyperclip
 ```
 
 **Run the Tool :**
-python password-checker.py
+```python password-checker.py ```
 
 **Usage :**
 1. Enter or generate a password
